@@ -4,19 +4,6 @@ Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**, Desenvolvedor
 
 Minha experiência combina desenvolvimento de aplicações web completas com construção de pipelines, tratamento e análise de dados. Gosto de transformar problemas reais em soluções funcionais, seguras e bem estruturadas.
 
-## Experiências de trabalho
-
-### Analista de Dados
-**GETAMED**
-
-Atuação na coleta, transformação e análise de dados para apoiar decisões e melhorar processos.
-
-**Tecnologias:** Python, SQL, Databricks, PySpark, Delta Lake, PostgreSQL e Apache Airflow.
-
-### Desenvolvedor Full Stack
-**GETAMED**
-
-Desenvolvimento de aplicações web, APIs, integrações, autenticação, bancos de dados e automações.
 
 **Tecnologias:** React, TypeScript, Tailwind CSS, TanStack Query, Node.js, Express, FastAPI, Prisma e PostgreSQL.
 
